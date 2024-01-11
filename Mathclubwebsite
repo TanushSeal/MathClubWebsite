@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Mathematical Sciences Club</title>
+    <style>
+        body {
+            background-color: #c3e6cb;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #28a745;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #4caf50;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #28a745;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div style="display: inline-block; text-align: left; vertical-align: top;">
+            <img src="https://upload.wikimedia.org/wikipedia/en/7/72/Institute_of_Mathematics_and_Applications%2C_Bhubaneswar_Logo.png" alt="Club Logo" style="margin-bottom: 10px;" width="75" height="75">
+        </div>
+        <div style="display: inline-block; text-align: left; margin-left: 20px; vertical-align: top;">
+            <h1 style="margin: 0; text-decoration: underline;">The Mathematical Sciences Club</h1>
+            <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Institute of Mathematics and Applications, Bhubaneswar</p>
+        </div>
+        <!-- Replace the placeholder image source with your actual logo -->
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#events">Events & Seminars</a>
+        <a href="#participate">Participate</a>
+        <a href="#resources">Resources</a>
+        <a href="#people">People</a>
+        <a href="#contact">Contact Us</a>
+        <a href="#philosophy">Philosophy behind this website</a>
+    </nav>
+
+    <section id="about">
+        <h2 >About</h2>
+        <p align="left">
+          Welcome to the Mathematical Sciences Club at the Institute of Mathematics and Applications, Bhubaneswar, your central hub for ongoing activities and a rich repository of problems and resources to enhance your mathematical journey.
+Our focus is on Student Talks and various Special Lectures by esteemed professors, specifically tailored for undergraduates. These insightful talks are currently in progress, and you can find details posted here.
+<ul align="left">
+<li>Explore abstracts of Lecture Series under activities. Exciting opportunities await IMA studentsâ€”share your insights through the portal, adhering to basic guidelines.</li>
+<li>Discover valuable resources for math enthusiasts in the dedicated sectionâ€”lecture notes, student-authored articles, relevant course materials, and more. Your contributions are highly valued; check the Participate tab for details. </li>
+<li>Look forward to weekly problems and engaging activities with support from our active student communityâ€”let's foster the growth of this club together! </li>
+<li>Regularly check our Events & Seminars section for updates. </li>
+<br>
+Anticipate more developments as we evolve. Feel free to share your suggestions via mathsciclub.ima@iomaorissa.ac.in .
+<br>
+Best regards, <br>
+Mathematical Sciences Club, IMA Bhubaneswar
+       </p>
+    </section>
+
+    <section id="events">
+        <h2>Events & Seminars</h2>
+
+<!-- Start of Table portion-->  
+
+                     <title>Event Details</title>
+  <style>
+    table {
+      width: 80%;
+      margin: 20px auto;
+      text-align: center;
+    }
+
+    th, td {
+      border: 1px solid #000;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Venue</th>
+      <th>Speaker</th>
+      <th>Topic &amp; Abstract</th>
+      <th>Official Notice</th>
+      <th>Notes &amp; Stuff</th>
+    </tr>
+     <tr>
+      <td>06/01/2024</td>
+      <td>10:00</td>
+      <td>T. Pati Hall</td>
+      <td>Dr. Pratik Misra</td>
+      <td>Causal Discovery</td>
+      <td>Important: Please arrive on time.</td>
+      <td>Bring your laptops for hands-on activities.</td>
+    </tr>
+    <!-- Add table rows with data here -->
+  </table>
+  
+<!-- End of Table portion-->        
+
+    </section>
+
+   <section id="participate">
+        <h2>Participate</h2>
+        <p align="left">
+            <div class="theorem" align="left">
+    This is a theorem we recently claimed. The only if part is obvious. Can you help us prove the if part?
+    <br>
+    <strong>Theorem:</strong> The math-sci club will flourish if and only if the students of IMA, Bbsr participate actively.
+  </div>
+
+  <div class="club-participation" align="left">
+    <p>You can contribute to the club in the following ways (This list will keep on increasing with more participation):</p>
+    
+    <ul class="activity-list" align="left">
+      <li>Present Talks and Lecture Series. (The page will be activated soon)</li>
+      <li>Send us problems for the fun and weekly problems sections.</li>
+      <li>Posting Articles and Notes.</li>
+      <li>Submit your doubts to us.</li>
+      <li>Actively participating in the club activities (like attending talks, solving problems, etc.)... and more.</li>
+    </ul>
+
+    <p>For the first four activities, there are some guidelines and processes to be followed for ease of conduction. Click on the following links to access.</p>
+
+    <div class="guidelines-links">
+      <a href="#talks-guidelines">Talks Guidelines</a> |
+      <a href="#problems-guidelines">Problems Guidelines</a> |
+      <a href="#articles-guidelines">Articles Guidelines</a> |
+      <a href="#doubts-guidelines">Doubts Submission Guidelines</a>
+    </div>
+  </div>
+       </p>
+    </section>
+
+    <section id="resources">
+        <h2>Resources</h2>
+        <p>Access valuable mathematical resources and materials.</p>
+    </section>
+
+    <section id="people">
+        <h2>People</h2>
+        <p>Meet the dedicated individuals involved in our club.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or suggestions? Get in touch with us!</p>
+    </section>
+
+<section id="philosophy">
+        <h2>Philosophy behind this website</h2>
+        <p align="left">
+This website is crafted using Hyper-text Markup Language (HTML) with a minimal incorporation of CSS. 
+It has been developed and is currently managed by students without prior website design experience. 
+As a result, we aimed to maintain simplicity in the code while ensuring functionality and elegance, showcasing the potency of basic HTML.
+Due, its minimalistic design, the website is lightweight and loads quickly.
+ </p>
+    </section>
+<br>
+<br>
+
+    <footer>
+        <p>&copy; 2024 The Mathematical Sciences Club, Institute of Mathematics and Applications. Developed by Tanush Seal. All rights reserved.</p>
+    </footer>
+</body>
+</html>
